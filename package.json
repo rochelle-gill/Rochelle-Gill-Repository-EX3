@@ -1,12 +1,14 @@
 {
   "name": "rochelle-gill-repository-ex3",
   "version": "1.0.0",
-  "description": "\"Do you job\" -Bill Belichick",
+  "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rochelle-gill/Rochelle-Gill-Repository-EX3.git"
+  }
 }
